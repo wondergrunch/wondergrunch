@@ -15,7 +15,9 @@
 
 <p align="center">
   <a href="https://discord.com/users/478747045264490497">discord ♡</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://m6rt.straw.page">strawpage ♡</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://m6rt.atabook.org">atabook ♡</a>
 </p>
 
