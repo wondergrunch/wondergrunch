@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=josefin+sans&weight=900&size=22&duration=3000&color=79BFFF&center=true&vCenter=true&width=500&lines=I-I'm+like-+I-I'm+your+dad%2C+Morty.;I'm+your+fucking+dad!;IT'S+FUCKING+ME%2C+MORTYYY!!!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=josefin+sans&weight=900&size=22&duration=3000&color=1d6ef0&center=true&vCenter=true&width=500&lines=I-I'm+like-+I-I'm+your+dad%2C+Morty.;I'm+your+fucking+dad!;IT'S+FUCKING+ME%2C+MORTYYY!!!" alt="Quote from S9 finale" /></a>
 </p>
 
 <p align="center">
