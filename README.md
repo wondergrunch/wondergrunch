@@ -13,7 +13,11 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=josefin+sans&weight=900&size=22&duration=3000&color=1d6ef0&center=true&vCenter=true&width=500&lines=I-I'm+like-+I-I'm+your+dad%2C+Morty.;I'm+your+fucking+dad!;IT'S+FUCKING+ME%2C+MORTYYY!!!" alt="Quote from S9 finale" /></a>
 </p>
 
-<p align="center"> $\color{#0019A6}{\text{sign  my  freshly  made  strawpage!}}$ </p>
+<div align="center">
+      
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjbeqn2aegsmi7nwrfcad75cse&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=0400ff)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 <p align="center">
   <a href="https://discord.com/users/478747045264490497">discord ♡</a>
